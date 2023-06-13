@@ -1,0 +1,7 @@
+REPOSITORY                         TAG       IMAGE ID       CREATED       SIZE
+bridgecrew/checkov                 latest    2ed53a66d457   2 weeks ago   479MB
+hello-world                        latest    9c7a54a9a43c   5 weeks ago   13.3kB
+ghcr.io/terraform-linters/tflint   latest    c1cd31248d0c   7 weeks ago   43.4MB
+
+image vs container:
+1. image - "чертеж", а container - результат этого "чертежа"
