@@ -12,3 +12,10 @@ Release notes:
 Release notes:
 - Add source code for app
 - Create 3 docker files
+
+### Docker 4
+
+Release notes:
+- Use canon source codes
+- Add docker-compose.yml
+- Add .env files
