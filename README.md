@@ -19,3 +19,9 @@ Release notes:
 - Use canon source codes
 - Add docker-compose.yml
 - Add .env files
+
+### Monitoring 1
+
+Release notes:
+- Create application monitoring with prometheus and node-exporter
+- Push images to docker hub (usr: malkops)
