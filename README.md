@@ -25,3 +25,10 @@ Release notes:
 Release notes:
 - Create application monitoring with prometheus and node-exporter
 - Push images to docker hub (usr: malkops)
+
+### Logging 1
+
+Release notes:
+- Trace requests with Zipkin
+- Collect logs with fleuntd
+- Use elasticsearch and kibana for visualisation
