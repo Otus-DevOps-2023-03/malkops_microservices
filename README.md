@@ -32,3 +32,9 @@ Release notes:
 - Trace requests with Zipkin
 - Collect logs with fleuntd
 - Use elasticsearch and kibana for visualisation
+
+### Kubernetes 1
+
+Release notes:
+- Create k8s cluster
+- Made test deployment
