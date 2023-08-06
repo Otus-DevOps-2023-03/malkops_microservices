@@ -38,3 +38,10 @@ Release notes:
 Release notes:
 - Create k8s cluster
 - Made test deployment
+
+### Kubernetes 2
+
+Release notes:
+- Install minikube on local machine
+- Create k8s cluster in yandex cloud
+- Deploy application to k8s cluster in yandex cloud
